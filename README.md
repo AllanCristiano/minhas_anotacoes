@@ -1,16 +1,9 @@
 # minhas_anotacoes
 
-A new Flutter project.
+Applicativo de anotacões para dispositivos mobile
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1672945670](https://user-images.githubusercontent.com/91546885/210862002-8adc8533-247a-4bd1-a10d-6454747b2369.png)
+![Screenshot_1672945674](https://user-images.githubusercontent.com/91546885/210862007-da62bf97-1ef4-48f0-a4da-69d031ac07d4.png)
+![Screenshot_1672945679](https://user-images.githubusercontent.com/91546885/210862008-30018627-effc-46a0-933b-5e3efb3cb0cc.png)
+![Screenshot_1672945683](https://user-images.githubusercontent.com/91546885/210862011-31e193a0-89aa-4f72-8542-029a657aa1cf.png)
